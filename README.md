@@ -5,42 +5,42 @@
 **Samiha Muntaha Mahin**  
 Department of Computer Science and Engineering  
 International Islamic University Chittagong (IIUC), Bangladesh  
-Email: c223201@ugrad.iiuc.ac.bd
+Email: c223201@ugrad.iiuc.ac.bd  
 
 **Tahmina Hasan**  
 Department of Computer Science and Engineering  
 International Islamic University Chittagong (IIUC), Bangladesh  
-Email: c223213@ugrad.iiuc.ac.bd
+Email: c223213@ugrad.iiuc.ac.bd  
 
-**Sara Karim**
-Department of Computer Science
-Asian University for Women (AUW), Bangladesh
-Email: bibi.karimullah@auw.edu.bd
+**Sara Karim**  
+Department of Computer Science  
+Asian University for Women (AUW), Bangladesh  
+Email: bibi.karimullah@auw.edu.bd  
 
-**Maksura Binte Rabbani Nuha**
-Department of Computer Science and Engineering
-International Islamic University Chittagong (IIUC), Bangladesh
-Email: maksuranuha07@gmail.com
+**Maksura Binte Rabbani Nuha**  
+Department of Computer Science and Engineering  
+International Islamic University Chittagong (IIUC), Bangladesh  
+Email: maksuranuha07@gmail.com  
 
-**Ekramul Haque Tusher**
-Faculty of Computing
-Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA), Malaysia
-Email: ekramulhaquetusher@gmail.com
+**Ekramul Haque Tusher**  
+Faculty of Computing  
+Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA), Malaysia  
+Email: ekramulhaquetusher@gmail.com  
 
-**Abdur Rahman**
-School of Artificial Intelligence
-Harbin Institute of Technology (HIT), Shenzhen, China
-Email: 2024332235@stu.hit.edu.cn
+**Abdur Rahman**  
+School of Artificial Intelligence  
+Harbin Institute of Technology (HIT), Shenzhen, China  
+Email: 2024332235@stu.hit.edu.cn  
 
-**Jia Uddin**
-AI and Big Data Department
-Endicott College, Woosong University, South Korea
-Email: jia.uddin@wsu.ac.kr
+**Jia Uddin**  
+AI and Big Data Department  
+Endicott College, Woosong University, South Korea  
+Email: jia.uddin@wsu.ac.kr  
 
-**Debasish Ghose**
-School of Economics, Innovation, and Technology
-Kristiania University College, Norway
-Email: debasish.ghose@kristiania.no
+**Debasish Ghose**  
+School of Economics, Innovation, and Technology  
+Kristiania University College, Norway  
+Email: debasish.ghose@kristiania.no  
 
 ## Abstract
 
