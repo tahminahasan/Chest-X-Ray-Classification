@@ -34,12 +34,12 @@ Email: 2024332235@stu.hit.edu.cn
 
 **Jia Uddin**  
 AI and Big Data Department  
-Endicott College, Woosong University, South Korea  
+Woosong University, Daejeon, Republic of Korea  
 Email: jia.uddin@wsu.ac.kr  
 
 **Debasish Ghose**  
 School of Economics, Innovation, and Technology  
-Kristiania University College, Norway  
+Kristiania University College, Bergen, Norway
 Email: debasish.ghose@kristiania.no  
 
 ## Abstract
